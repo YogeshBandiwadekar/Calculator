@@ -1,0 +1,9 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.javapoint.calculator/groupId>
+    <artifactId>java.calculator</artifactId>
+    <packaging>jar</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <name>com.javapoint.calculator</name>
+    <url>http://maven.apache.org</url>
+</project>
